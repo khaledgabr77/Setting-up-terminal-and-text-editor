@@ -1,5 +1,5 @@
 # Setting-up-terminal-and-text-editor
-The following steps taken from igor boguslavsky [video](https://youtu.be/pk3H6gOCalk) 
+The following steps taken from igor boguslavsky [video]([https://youtu.be/pk3H6gOCalk](https://youtu.be/pk3H6gOCalk)) 
 # Setting up zsh
 
 ```bash
